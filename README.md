@@ -1,4 +1,4 @@
-# Telecommunication Customer Churning Analysis
+# Customer Retention Prediction Model
 
 ## Objective
 To predict whether a customer will churn (leave the service) based on their usage patterns and demographic information.
